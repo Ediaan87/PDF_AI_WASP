@@ -13,4 +13,6 @@ Now, let's get the app running!
 
 Congratulations, you are now running your app! 🎉
 
-** Special thanks to Vinny and team from WASP - please consider joining their Discord server with ID: 686873244791210014.
+** Special thanks to Vinny and team from WASP - please consider giving them a start on Github: https://github.com/wasp-lang/wasp/tree/wasp-ai 
+Join their Discord server with ID: 686873244791210014.
+
