@@ -10,7 +10,7 @@ Now, let's get the app running!
    cd <your-app-name>
    wasp db migrate-dev # init the db
    wasp start
-   
+
 Congratulations, you are now running your app! 🎉
 
 ** Special thanks to Vinny and team from WASP - please consider joining their Discord server with ID: 686873244791210014.
